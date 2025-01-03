@@ -1,3 +1,6 @@
+
+![Red and White Horizontal Cropped](https://github.com/user-attachments/assets/be207095-3757-46d3-aeee-a9fb086bac8b)
+
 # Script Handler
 
 This repository contains utility scripts for Unity to improve productivity and workflow. These tools are particularly useful for tasks like detecting missing scripts, adjusting mesh bounding boxes, calculating triangle counts, identifying duplicate components, and assisting VRChat avatar creators with debugging.
